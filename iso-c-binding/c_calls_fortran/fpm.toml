@@ -1,0 +1,12 @@
+name = "c_calls_fortran"
+version = "0.1.0"
+license = "license"
+author = "Timmy Jose"
+maintainer = "zoltan.jose@gmail.com"
+copyright = "Copyright 2026, Timmy Jose"
+
+[[executable]]
+name = "c_caller"
+source-dir = "app"
+main = "main.c"
+
