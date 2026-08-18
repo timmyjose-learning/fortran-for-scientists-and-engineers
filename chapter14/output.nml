@@ -1,0 +1,6 @@
+&MYLIST
+ I=12         ,
+ J=-999       ,
+ L=F,
+ STRING='This is a test string',
+ /
